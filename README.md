@@ -77,14 +77,6 @@ You can install the dependencies with:
 pip install torch torchvision matplotlib seaborn numpy scikit-learn
 ```
 
-### Data Directories
-
-Ensure that the dataset is located in the following directories:
-
-- **Training data**: `/kaggle/input/neu-metal-surface-defects-data/NEU Metal Surface Defects Data/train`
-- **Test data**: `/kaggle/input/neu-metal-surface-defects-data/NEU Metal Surface Defects Data/test`
-- **Validation data**: `/kaggle/input/neu-metal-surface-defects-data/NEU Metal Surface Defects Data/valid`
-
 ## Acknowledgments
 
 - The [NEU Metal Surface Defects Dataset](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data/data) is provided by the NEU.
